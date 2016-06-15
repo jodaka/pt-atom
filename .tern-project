@@ -1,0 +1,14 @@
+{
+  "ecmaVersion": 6,
+  "libs": [
+    "jquery"
+  ],
+  "loadEagerly": [
+    "lib/**/*.js"
+  ],
+  "plugins": {
+    "node": {},
+    "modules": {},
+    "es_modules": {}
+  }
+}
