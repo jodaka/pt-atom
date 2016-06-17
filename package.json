@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "atom-bottom-dock": "^0.5.3",
+    "atom-message-panel": "^1.2.7",
     "atom-space-pen-views": "^2.2.0",
     "jquery": "^2.2.4",
     "space-pen": "^5.1.2"
