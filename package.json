@@ -1,13 +1,13 @@
 {
   "name": "pt-atom",
   "main": "./lib/pt-atom",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "platinum searcher frontend package in atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "pt-atom:search"
   },
-  "repository": "https://github.com/atom/pt-atom",
+  "repository": "https://github.com/misty-rc/pt-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
