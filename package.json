@@ -1,8 +1,8 @@
 {
   "name": "pt-atom",
   "main": "./lib/pt-atom",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "platinum searcher frontend package in atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "pt-atom:search"
@@ -13,11 +13,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-bottom-dock": "^0.5.3",
     "atom-message-panel": "^1.2.7",
-    "atom-space-pen-views": "^2.2.0",
-    "jquery": "^2.2.4",
-    "space-pen": "^5.1.2"
+    "atom-space-pen-views": "^2.2.0"
   },
   "devDependencies": {
     "eslint": "^2.12.0",

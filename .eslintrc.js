@@ -11,7 +11,7 @@ module.exports = {
     },
     "rules": {
         "semi": "error",
-        "no-console": ["warn", {allow: ["info","warn", "error"]}]
+        "no-console": ["warn", {allow: ["error"]}]
     },
     "parserOptions": {
       "ecmaVersion": 6,
