@@ -1,7 +1,7 @@
 {
   "name": "pt-atom",
   "main": "./lib/pt-atom",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "platinum searcher frontend package in atom",
   "keywords": [],
   "activationCommands": {
